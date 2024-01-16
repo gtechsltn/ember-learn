@@ -18,3 +18,6 @@
 ## Deploy
 + PowerShell
 + IIS 10
+
+## Guide
++ [Ember Octane](https://docs.google.com/document/d/1ZWpz5-wh8YMKaQULVg3YMxKvpL22ghYpTKwzQN_AKV8/)
